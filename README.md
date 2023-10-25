@@ -1,2 +1,5 @@
 # GrapheneClothes
-Graphene Clothes 
+Graphene Fabric
+
+High Strength Fabric made utilizing Graphene Technology.
+Built tough like a cybertruck!

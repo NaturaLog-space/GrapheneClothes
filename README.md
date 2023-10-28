@@ -13,3 +13,4 @@ Graphene Fabric (Grayon)
 - graphene chitin clothing
 - on a graphene laminated with chitin
 - https://patents.google.com/patent/JP4805132B2/en?q=(Chitin+fabric)&oq=Chitin+fabric&page=6
+- https://patents.google.com/patent/CN109078587A/en?q=(Chitin+graphene)&oq=Chitin+graphene

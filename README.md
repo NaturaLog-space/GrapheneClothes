@@ -11,3 +11,5 @@ Graphene Fabric (Grayon)
 - chitin fabric made from crabshells and mushrooms.
 - antimicrobial clothing
 - graphene chitin clothing
+- on a graphene laminated with chitin
+- https://patents.google.com/patent/JP4805132B2/en?q=(Chitin+fabric)&oq=Chitin+fabric&page=6

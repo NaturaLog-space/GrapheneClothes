@@ -6,3 +6,8 @@ Graphene Fabric (Grayon)
 - Superior Fabric Open Source! No Patents!
 - Natural materials with graphene for high strength fabric
 - https://www.nixor.co.uk/graphene-dough-and-graphenic-glass/
+
+- https://www.diva-portal.org/smash/get/diva2:1444899/FULLTEXT01.pdf
+- chitin fabric made from crabshells and mushrooms.
+- antimicrobial clothing
+- graphene chitin clothing

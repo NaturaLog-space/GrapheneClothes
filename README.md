@@ -15,3 +15,7 @@ Graphene Fabric (Grayon)
 - https://patents.google.com/patent/JP4805132B2/en?q=(Chitin+fabric)&oq=Chitin+fabric&page=6
 - https://patents.google.com/patent/CN109078587A/en?q=(Chitin+graphene)&oq=Chitin+graphene
 - https://patents.google.com/patent/JP2009084082A/en?q=(Chitin+graphene)&oq=Chitin+graphene&sort=old&page=3
+- https://pubs.acs.org/doi/10.1021/acssuschemeng.9b06099
+
+- antimicrobial fibers for clothing with no odor.
+- shoes with no smell
